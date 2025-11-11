@@ -1,0 +1,258 @@
+{
+  "allied-health-sciences": {
+    "type": "allied",
+    "title": "Allied Health Sciences Department",
+    "subtitle": "ALLIED HEALTH SCIENCES",
+    "description": "Transforming healthcare through specialized training in Medical Imaging, Laboratory Technology, and Anaesthesia & Operation Theatre Technology - preparing skilled professionals for the future of healthcare.",
+    "stats": [
+      {
+        "icon": "fas fa-graduation-cap",
+        "value": "3",
+        "label": "Specialized Programs"
+      },
+      {
+        "icon": "fas fa-hospital",
+        "value": "100%",
+        "label": "Clinical Training"
+      },
+      {
+        "icon": "fas fa-briefcase",
+        "value": "Wide",
+        "label": "Career Opportunities"
+      }
+    ],
+    "overview": {
+      "sectionTitle": "ABOUT THE DEPARTMENT",
+      "title": "Building Healthcare Excellence",
+      "image": "assets/images/home.webp",
+      "paragraphs": [
+        "The Department of Allied Health Sciences at niramaya institute of health sciences is committed to developing highly skilled healthcare professionals in critical support specialties. Established in 2023, our department offers three comprehensive Bachelor of Science programs designed to meet the growing demand for qualified allied health professionals.",
+        "With state-of-the-art laboratories, modern equipment, and experienced faculty, we provide students with rigorous academic training combined with extensive clinical exposure. Our programs are affiliated with RGUHS, Bengaluru and approved by the Government of Karnataka.",
+        "Students gain hands-on experience in hospital settings through clinical rotations and mandatory internships, preparing them for successful careers in hospitals, diagnostic centers, research institutions, and healthcare companies worldwide."
+      ]
+    },
+    "programs": {
+      "sectionTitle": "OUR PROGRAMS",
+      "title": "Allied Health Sciences Programs",
+      "description": "Choose from our specialized undergraduate programs designed to prepare you for diverse healthcare careers",
+      "items": [
+        {
+          "icon": "fas fa-x-ray",
+          "title": "B.Sc Medical Imaging Technology",
+          "description": "Master advanced diagnostic imaging techniques including X-ray, CT, MRI, ultrasound, and digital radiography for accurate disease diagnosis.",
+          "features": [
+            "Duration: 4 years (including internship)",
+            "Conventional & Digital Radiography",
+            "CT, MRI & Ultrasonography Training",
+            "Hands-on Clinical Experience",
+            "Career in Imaging Centers & Hospitals"
+          ],
+          "link": "b-sc-medical-imaging.php"
+        },
+        {
+          "icon": "fas fa-microscope",
+          "title": "B.Sc Medical Laboratory Technology",
+          "description": "Become an expert in clinical diagnostics through comprehensive training in laboratory testing, analysis, and disease detection.",
+          "features": [
+            "Duration: 4 years (including internship)",
+            "Clinical Pathology & Microbiology",
+            "Haematology & Biochemistry",
+            "Advanced Lab Equipment Training",
+            "Research & Diagnostic Opportunities"
+          ],
+          "link": "b-sc-medical-laboratory.php"
+        },
+        {
+          "icon": "fas fa-procedures",
+          "title": "B.Sc Anaesthesia & OT Technology",
+          "description": "Train as a critical care specialist supporting anaesthesiologists and surgical teams in operation theatres and intensive care units.",
+          "features": [
+            "Duration: 4 years (including internship)",
+            "Anaesthesia Administration & Monitoring",
+            "Operating Room Management",
+            "Critical Care & Pain Management",
+            "ICU & Emergency Care Training"
+          ],
+          "link": "b-sc-anaesthesia.php"
+        }
+      ]
+    },
+    "faculty": {
+      "sectionTitle": "OUR FACULTY",
+      "title": "Meet Our Faculty",
+      "description": "Experienced and dedicated educators committed to your success",
+      "dataFile": "data/faculty-allied.json"
+    },
+    "cta": {
+      "title": "Ready to Start Your Journey?",
+      "description": "Explore admission details and take the first step towards your healthcare career in Allied Health Sciences",
+      "buttonText": "View Admission Details",
+      "buttonLink": "admission.php?type=allied"
+    }
+  },
+  "nursing": {
+    "type": "nursing",
+    "title": "Nursing Department",
+    "subtitle": "NURSING DEPARTMENT",
+    "description": "Empowering the next generation of compassionate and skilled nursing professionals through quality education, hands-on training, and ethical practice.",
+    "stats": [
+      {
+        "icon": "fas fa-graduation-cap",
+        "value": "4 Years",
+        "label": "B.Sc Nursing Program"
+      },
+      {
+        "icon": "fas fa-users",
+        "value": "40 Seats",
+        "label": "Annual Intake"
+      },
+      {
+        "icon": "fas fa-hospital",
+        "value": "100%",
+        "label": "Clinical Exposure"
+      }
+    ],
+    "overview": {
+      "sectionTitle": "ABOUT THE DEPARTMENT",
+      "title": "Excellence in Nursing Education",
+      "image": "assets/images/home.webp",
+      "paragraphs": [
+        "The Department of Nursing at niramaya institute of health sciences is dedicated to developing competent, compassionate, and ethical nursing professionals. Established in 2023, our department operates under the guidance of Rajiv Gandhi University of Health Sciences (RGUHS), Bengaluru and is approved by the Karnataka State Nursing Council and Government of Karnataka.",
+        "We provide a comprehensive 4-year B.Sc Nursing program that combines rigorous academic coursework with extensive clinical training. Our curriculum is designed to equip students with the knowledge, skills, and values necessary to excel in diverse healthcare settings and make a meaningful impact on patient care and community health.",
+        "With state-of-the-art laboratories, experienced faculty, and partnerships with leading hospitals, we ensure our students receive the best possible education and practical experience to launch successful careers in nursing."
+      ]
+    },
+    "programDetails": {
+      "sectionTitle": "PROGRAM INFORMATION",
+      "title": "B.Sc Nursing - Key Details",
+      "description": "A comprehensive undergraduate program designed to prepare students for professional nursing practice",
+      "details": [
+        {
+          "icon": "fas fa-clock",
+          "title": "Duration",
+          "value": "4 Years (Including Internship)"
+        },
+        {
+          "icon": "fas fa-university",
+          "title": "Affiliation",
+          "value": "RGUHS, Bengaluru"
+        },
+        {
+          "icon": "fas fa-certificate",
+          "title": "Recognition",
+          "value": "KSNC & Govt. of Karnataka"
+        },
+        {
+          "icon": "fas fa-language",
+          "title": "Medium",
+          "value": "English"
+        },
+        {
+          "icon": "fas fa-users",
+          "title": "Intake Capacity",
+          "value": "40 Seats per Year"
+        },
+        {
+          "icon": "fas fa-clipboard-check",
+          "title": "Eligibility",
+          "value": "10+2 (PCB) with 45%"
+        }
+      ]
+    },
+    "faculty": {
+      "sectionTitle": "OUR FACULTY",
+      "title": "Meet Our Nursing Faculty",
+      "description": "Experienced nursing educators dedicated to shaping the future of healthcare",
+      "dataFile": "data/faculty-nursing.json"
+    },
+    "careers": {
+      "sectionTitle": "CAREER PATHS",
+      "title": "Career Opportunities in Nursing",
+      "intro": "Nursing offers diverse opportunities across clinical, academic, research, and administrative domains. Nurses today are not limited to bedside care; they can pursue careers in technology-driven healthcare, global health, and leadership roles.",
+      "categories": [
+        {
+          "icon": "fas fa-hospital",
+          "title": "Hospitals & Clinics",
+          "opportunities": [
+            "Staff Nurse",
+            "Nurse Specialist",
+            "Nurse Administrator"
+          ]
+        },
+        {
+          "icon": "fas fa-laptop-medical",
+          "title": "Telehealth & Digital Care",
+          "opportunities": [
+            "Telehealth Nurse",
+            "Virtual Care Coordinator"
+          ]
+        },
+        {
+          "icon": "fas fa-home",
+          "title": "Home Healthcare",
+          "opportunities": [
+            "Home Care Nurse",
+            "Palliative Care Nurse"
+          ]
+        },
+        {
+          "icon": "fas fa-plane",
+          "title": "Medical Tourism",
+          "opportunities": [
+            "International Patient Care Nurse",
+            "Coordinator"
+          ]
+        },
+        {
+          "icon": "fas fa-brain",
+          "title": "Mental Health",
+          "opportunities": [
+            "Psychiatric Nurse",
+            "Addiction & Rehabilitation Nurse"
+          ]
+        },
+        {
+          "icon": "fas fa-users",
+          "title": "Public Health",
+          "opportunities": [
+            "Community Health Nurse",
+            "Epidemiology Nurse"
+          ]
+        },
+        {
+          "icon": "fas fa-chalkboard-teacher",
+          "title": "Education & Training",
+          "opportunities": [
+            "Nurse Educator",
+            "Clinical Instructor",
+            "Lecturer",
+            "Professor",
+            "Principal"
+          ]
+        },
+        {
+          "icon": "fas fa-flask",
+          "title": "Research & Policy",
+          "opportunities": [
+            "Nurse Researcher",
+            "Health Policy Advisor"
+          ]
+        },
+        {
+          "icon": "fas fa-briefcase",
+          "title": "Corporate & Occupational Health",
+          "opportunities": [
+            "Occupational Health Nurse",
+            "Wellness Program Manager"
+          ]
+        }
+      ]
+    },
+    "cta": {
+      "title": "Ready to Start Your Nursing Career?",
+      "description": "Explore admission details and take the first step towards becoming a skilled nursing professional",
+      "buttonText": "View Admission Details",
+      "buttonLink": "admission.php?type=nursing"
+    }
+  }
+}

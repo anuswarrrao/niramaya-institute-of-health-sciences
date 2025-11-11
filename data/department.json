@@ -1,0 +1,351 @@
+{
+  "medical-imaging": {
+    "title": "B.Sc Medical Imaging Technology",
+    "subtitle": "Advanced Diagnostic Imaging for Modern Healthcare",
+    "overview": {
+      "title": "About the Course",
+      "content": [
+        "The B.Sc. Medical Imaging technology helps students broaden their ruling horizons and walks of life in medical research & development or specialized Research & Diagnostic imagining companies that bring revolutionary diagnostic imaging to the market. Our college has the provision for training students by assisting in procedures such as Conventional Radiography, Digital radiography, Ultrasonography & Doppler imaging, CT scanning MRI, and Ortho-Pan tomogram (OPG) along with doing diagnostic & therapeutic radiological procedures.",
+        "Our graduates can step into this expanding world of healthcare nationally and internationally. They can also work as application specialists in medical imaging equipment manufacturing companies and as teachers in educational institutes. In addition, they can pursue higher studies in this field (MSc & PhD)."
+      ]
+    },
+    "scope": {
+      "title": "Scope & Future Prospects",
+      "items": [
+        {
+          "icon": "fas fa-graduation-cap",
+          "title": "Higher Education",
+          "description": "B.Sc. Medical Imaging Technology graduates can pursue master's and doctorate-level specializations in various imaging modalities."
+        },
+        {
+          "icon": "fas fa-hospital-alt",
+          "title": "Healthcare Sector",
+          "description": "Professionals can find roles as diagnostic imaging technology specialists in both public and private healthcare sectors."
+        },
+        {
+          "icon": "fas fa-industry",
+          "title": "Global Companies",
+          "description": "Graduates may work as application specialists for global healthcare companies such as GE Healthcare and Philips."
+        },
+        {
+          "icon": "fas fa-chalkboard-teacher",
+          "title": "Academia & Research",
+          "description": "Opportunities exist in academia, allowing graduates to teach and engage in research at institutions both within India and internationally."
+        }
+      ]
+    },
+    "careers": {
+      "title": "Career Paths",
+      "description": "There is a wide range of topics within Medical Imaging Technology related to radiodiagnosis and imaging. There are several positions available to graduate students in government and private sectors.",
+      "items": [
+        {
+          "icon": "fas fa-x-ray",
+          "title": "Imaging Technologist",
+          "description": "Operate advanced imaging equipment and perform diagnostic procedures in hospitals and clinics."
+        },
+        {
+          "icon": "fas fa-laptop-medical",
+          "title": "Application Specialist",
+          "description": "Technical specialists for imaging units in healthcare companies, supporting equipment installation and training."
+        },
+        {
+          "icon": "fas fa-user-graduate",
+          "title": "Educational Staff",
+          "description": "Teaching positions in higher learning institutions, sharing expertise with future healthcare professionals."
+        }
+      ]
+    },
+    "info": [
+      {
+        "icon": "fas fa-award",
+        "title": "Award of Degree",
+        "description": "Upon successful completion of the final year examination and internship, the candidate will receive a Bachelor of Science degree in Medical Imaging Technology."
+      },
+      {
+        "icon": "fas fa-user-md",
+        "title": "Internship",
+        "description": "After passing the final university examination, students are eligible to embark on the Compulsory Rotatory Internship, which is a mandatory requirement for obtaining the B.Sc. Medical Imaging Technology degree."
+      },
+      {
+        "icon": "fas fa-hospital",
+        "title": "Clinical Facilities",
+        "description": "Students receive hands-on training in hospital facilities at the Ambalpady Medical Centre, ensuring real-world clinical exposure."
+      }
+    ]
+  },
+  "medical-laboratory": {
+    "title": "B.Sc Medical Laboratory Technology",
+    "subtitle": "Precision Diagnostics for Better Healthcare",
+    "overview": {
+      "title": "About the Course",
+      "content": [
+        "Medical Laboratory Technology is an Allied Health Science specialty concerned with the diagnosis, and treatment of various diseases through the usage of various clinical laboratory tests. As vital members of the healthcare team, medical laboratory professionals play a critical role in giving the information that is needed to give the best health care and treatment to the patients. The fact is that the practice of modern medicine would be impossible without the laboratory test."
+      ]
+    },
+    "scope": {
+      "title": "Scope & Future Prospects",
+      "content": "Medical laboratory professionals have an unlimited choice of working in hospitals, clinics, nursing homes, public health facilities, and commercial laboratories as Laboratory technologists. And also, educators in educational institutions. Higher education in the form of M.Sc. and PhD is available in this field as well."
+    },
+    "careers": {
+      "title": "Career Paths",
+      "items": [
+        {
+          "icon": "fas fa-microscope",
+          "title": "Medical Laboratory Technologist"
+        },
+        {
+          "icon": "fas fa-flask",
+          "title": "Clinical Laboratory Scientist"
+        },
+        {
+          "icon": "fas fa-search",
+          "title": "Research Assistant"
+        },
+        {
+          "icon": "fas fa-user-tie",
+          "title": "Laboratory Manager/Supervisor"
+        },
+        {
+          "icon": "fas fa-clipboard-check",
+          "title": "Quality Control Analyst"
+        },
+        {
+          "icon": "fas fa-shield-virus",
+          "title": "Infection Control Specialist"
+        },
+        {
+          "icon": "fas fa-chalkboard-teacher",
+          "title": "Educator/Instructor"
+        }
+      ]
+    },
+    "facilities": {
+      "title": "Clinical Facilities",
+      "sections": [
+        {
+          "title": "Clinical Laboratory Training",
+          "description": "The students are well trained in the various clinical laboratories which include:",
+          "list": [
+            "Clinical Haematology",
+            "Clinical Biochemistry",
+            "Clinical Pathology",
+            "Clinical Microbiology (Bacteriology, Mycology, Virology, and Parasitology)",
+            "Clinical Immunology",
+            "Transfusion Medicine"
+          ]
+        },
+        {
+          "title": "Advanced Equipment & Technologies",
+          "description": "These Laboratories are well equipped with the most sophisticated instruments and undergraduate students are getting training on advanced technologies like auto analysers, Immunofluorescence, ELISA, Western blot, PCR, Hormonal Analysis, etc."
+        },
+        {
+          "title": "Department Laboratories",
+          "description": "In addition to this, there is an Analytical Laboratory and a Multi-purpose laboratory in the Department itself to conduct the practicals for students. These labs are equipped with enough Microscopes, Centrifuges, Spectrophotometers, Weighing Balance, Water baths, Incubators, Hot air ovens, pH meters, etc., and are spacious and student-friendly for instruction and independent practice."
+        }
+      ]
+    },
+    "info": [
+      {
+        "icon": "fas fa-award",
+        "title": "Award of Degree",
+        "description": "Upon successful completion of the final year examination and internship, the candidate will receive a Bachelor of Science degree in Medical Laboratory Technology."
+      },
+      {
+        "icon": "fas fa-user-md",
+        "title": "Internship",
+        "description": "After passing the final university examination, students are eligible to embark on the Compulsory Rotatory Internship, which is a mandatory requirement for obtaining the B.Sc. Medical Laboratory Technology degree."
+      }
+    ]
+  },
+  "anaesthesia": {
+    "title": "B.Sc Anaesthesia and Operation Theatre Technology",
+    "subtitle": "Critical Care Excellence in Modern Surgery",
+    "overview": {
+      "title": "About the Course",
+      "content": [
+        "In the current healthcare industry, Anaesthesia & Operation Theatre Technology is designed to meet the requirements of Anaesthesia & OT technologists. The focus of the program is to train the students to work under anaesthesiologists in administrating and monitoring Anaesthesia during surgical procedures. A candidate in this program will become a member of a multidisciplinary team in operating rooms where they prepare and maintain operating rooms, assist anaesthesiologists and surgeons during the preoperative to postoperative period, and provide recovery room support to patients."
+      ]
+    },
+    "scope": {
+      "title": "Scope & Career Fields",
+      "items": [
+        {
+          "icon": "fas fa-syringe",
+          "title": "Anaesthesia & OT Technologist in Hospitals"
+        },
+        {
+          "icon": "fas fa-user-md",
+          "title": "Assistant to Consultant Anaesthesiologist"
+        },
+        {
+          "icon": "fas fa-chalkboard-teacher",
+          "title": "Jobs in Teaching and Education Institutes"
+        },
+        {
+          "icon": "fas fa-procedures",
+          "title": "Surgical Assistant"
+        },
+        {
+          "icon": "fas fa-tools",
+          "title": "Medical Instrument Technologist"
+        },
+        {
+          "icon": "fas fa-ambulance",
+          "title": "Ambulance Technologist"
+        }
+      ]
+    },
+    "careers": {
+      "title": "Career Paths",
+      "description": "After completing a B.Sc. in Anaesthesia and Operation Theatre Technology, you can pursue a variety of career options in the field of healthcare.",
+      "items": [
+        {
+          "icon": "fas fa-heartbeat",
+          "title": "Anaesthesia Technologist",
+          "description": "Assist anaesthesiologists in hospitals and surgical centers."
+        },
+        {
+          "icon": "fas fa-hospital",
+          "title": "Operating Room Technologist",
+          "description": "Prepare and maintain OTs, and assist surgical teams."
+        },
+        {
+          "icon": "fas fa-bed",
+          "title": "Critical Care Technologist",
+          "description": "Work in ICUs and monitor post-surgical patients."
+        },
+        {
+          "icon": "fas fa-cut",
+          "title": "Surgical Technologist",
+          "description": "Assist surgeons, sterilize instruments, and ensure asepsis."
+        },
+        {
+          "icon": "fas fa-hand-holding-medical",
+          "title": "Pain Management Technologist",
+          "description": "Support pain procedures like epidurals and nerve blocks."
+        },
+        {
+          "icon": "fas fa-user-graduate",
+          "title": "Teaching & Education",
+          "description": "Become an instructor in Anaesthesia and OT technology."
+        },
+        {
+          "icon": "fas fa-flask",
+          "title": "Research & Development",
+          "description": "Innovate in surgical and Anaesthesia technology."
+        },
+        {
+          "icon": "fas fa-globe",
+          "title": "International Careers",
+          "description": "Work abroad in expanding healthcare sectors."
+        }
+      ]
+    },
+    "training": {
+      "title": "Clinical Facilities",
+      "sections": [
+        {
+          "title": "Clinical Training",
+          "description": "Clinical training forms a core part of the program, providing hands-on experience in hospital settings."
+        },
+        {
+          "title": "Key Components of Training",
+          "list": [
+            "<strong>Pre-Operative Phase:</strong> Patient preparation, identifying surgical risks, and Anaesthesia planning.",
+            "<strong>Intra-Operative Phase:</strong> Monitoring patient vitals, assisting with Anaesthesia adjustments, and troubleshooting equipment.",
+            "<strong>Post-Operative Phase:</strong> Managing recovery, monitoring vital signs, and managing complications like delayed awakening."
+          ]
+        },
+        {
+          "title": "Internship Rotations",
+          "list": [
+            "Operation theatres for various specialties (e.g., cardiac, orthopaedic, general surgery).",
+            "Intensive Care Units (ICUs) for ventilator management and patient monitoring.",
+            "Emergency departments for trauma management and resuscitation."
+          ]
+        }
+      ]
+    },
+    "info": [
+      {
+        "icon": "fas fa-award",
+        "title": "Award of Degree",
+        "description": "Upon successful completion of the final year examination and internship, the candidate will receive a Bachelor of Science degree in Anaesthesia and Operation Theatre Technology."
+      },
+      {
+        "icon": "fas fa-user-md",
+        "title": "Internship",
+        "description": "After passing the final university examination, students are eligible to embark on the Compulsory Rotatory Internship, which is a mandatory requirement for obtaining the B.Sc. Anaesthesia and Operation Theatre Technology degree."
+      }
+    ]
+  },
+  "bsc-nursing": {
+    "title": "Bachelor of Science in Nursing",
+    "subtitle": "Build Your Career in Compassionate Healthcare",
+    "overview": {
+      "title": "B.Sc Nursing",
+      "content": [
+        "A comprehensive 4-year undergraduate program designed to develop skilled, compassionate, and competent nursing professionals ready to serve in diverse healthcare settings."
+      ]
+    },
+    "details": {
+      "duration": "4 years (including internship)",
+      "affiliation": "Rajiv Gandhi University of Health Sciences (RGUHS), Bengaluru",
+      "recognition": "Rajiv Gandhi University of Health sciences , Karnataka State Nursing Council and Government of Karnataka",
+      "medium": "English",
+      "intake": "40 seats per academic year",
+      "qualification": "10+2 (Science stream with Physics, Chemistry, and Biology)"
+    },
+    "eligibility": {
+      "title": "Eligibility Criteria",
+      "items": [
+        "Candidates must have completed 10+2 or equivalent examination in Science stream",
+        "Mandatory subjects: Physics, Chemistry, and Biology",
+        "Minimum aggregate marks: 45% (40% for reserved categories)",
+        "Age criteria as per KSNC and RGUHS norms",
+        "Medical fitness certificate required at the time of admission",
+        "Proficiency in English language (medium of instruction)"
+      ]
+    },
+    "scope": {
+      "title": "Course Highlights",
+      "items": [
+        {
+          "icon": "fas fa-book-open",
+          "title": "Comprehensive Curriculum",
+          "description": "Theory, practicals, and clinical exposure combining academic excellence with hands-on training."
+        },
+        {
+          "icon": "fas fa-chalkboard-teacher",
+          "title": "Experienced Faculty",
+          "description": "Learn from qualified and dedicated nursing educators with extensive clinical experience."
+        },
+        {
+          "icon": "fas fa-flask",
+          "title": "Well-Equipped Laboratories",
+          "description": "State-of-the-art nursing labs with modern equipment for practical skill development."
+        },
+        {
+          "icon": "fas fa-hospital",
+          "title": "Hospital Postings",
+          "description": "Regular clinical rotations in affiliated multi-specialty hospitals for real-world exposure."
+        },
+        {
+          "icon": "fas fa-user-md",
+          "title": "Patient Care Focus",
+          "description": "Strong emphasis on ethics, compassionate patient care, and professional conduct."
+        },
+        {
+          "icon": "fas fa-lightbulb",
+          "title": "Evidence-Based Practice",
+          "description": "Training in research, critical thinking, leadership, and evidence-based nursing practice."
+        }
+      ]
+    },
+    "careers": {
+      "title": "Career Opportunities",
+      "items": []
+    },
+    "info": []
+  }
+}

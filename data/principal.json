@@ -1,0 +1,51 @@
+{
+  "nursing": {
+    "pageTitle": "Principal's Message - Niramaya Institute of Health Sciences",
+    "headerTitle": "Principal's Message",
+    "headerSubtitle": "Nurturing Excellence in Nursing Education",
+    "image": "assets/images/message/principal-n.png",
+    "name": "Mrs. Roshani Rodrigues",
+    "qualification": "MSc Nursing (OBG)",
+    "designation": "Principal",
+    "contentTitle": "Welcome to Niramaya College of Nursing",
+    "paragraphs": [
+      "Niramaya College of Nursing Bantakal, Udupi, was established in 2023 under the auspices of the Shri Vishnu Moorthy Hayavadana Swami Educational Society ® Innanje Udupi, led by His Holiness Shri Vishwa Vallabha Theertha Swamiji of Shri Sode Vadiraj Mutt, to deliver value-based quality education to students at an affordable price.",
+      "The primary goal of Niramaya College of Nursing is to develop aspiring individuals into well-educated, skilled, and empathetic nursing professionals capable of delivering quality care in a variety of healthcare environments. Our nursing curriculum offers students essential knowledge, practical skill development, and clinical experiences, all under the mentorship and oversight of qualified teaching staff. Our college equips aspirants with a solid educational foundation that not only helps them achieve their career aspirations but also enhances the well-being of society as a whole.",
+      "Our emphasis is on the comprehensive personal growth of students, balancing academic studies with active participation in co-curricular and extracurricular pursuits. We are dedicated to instilling robust moral and ethical principles in our students. We shape and equip students to be not just caregivers, but also self-assured and exceptionally capable individuals.",
+      "Nursing is a dynamic, therapeutic, and educational process that is dedicated to addressing the health requirements of society. It is a respected profession with a high global demand, providing a deeply fulfilling career. Nursing is a scientifically demanding field that necessitates continuous knowledge updates to guarantee the highest quality of care for patients.",
+      "I extend an invitation to all young, aspirational applicants who have committed themselves to becoming nurses and who also want to address the severe lack of skilled and qualified nursing personnel."
+    ]
+  },
+  "allied": {
+    "pageTitle": "Principal's Message - Allied Health Sciences - Niramaya Institute of Health Sciences",
+    "headerTitle": "Principal's Message",
+    "headerSubtitle": "Allied Health Sciences Division",
+    "image": "assets/images/message/principal-a.png",
+    "name": "Mr Shivashankar Pai B",
+    "qualification": "",
+    "designation": "Principal",
+    "department": "Allied Health Sciences",
+    "contentTitle": "Welcome to Allied Health Sciences",
+    "paragraphs": [
+      "Allied Health science is a field of science that encompasses a variety of healthcare professionals that support and complement the work of physicians and other healthcare professionals. These professionals play a vital role in patient care and wellness, and their work is essential to the functioning of the healthcare system. We at niramaya institute of health sciences are offering B.Sc. Anaesthesia and Operation Theatre Technology, B.Sc. Medical Imaging Technology, and B.Sc. Medical Laboratory Technology from the academic year 2023.",
+      "It is my great pleasure to welcome all aspiring Allied Health Sciences students to niramaya institute of health sciences. I am happy that you all have considered niramaya institute of health sciences for admission to various programs. My warm gratitude to the parents for their trust in us. Our highly qualified and professionally trained faculties will make sure to impart academic excellence, professional grooming, and character building to our students by engaging them in active learning processes through curricular and extracurricular activities.",
+      "We have well-equipped classrooms, laboratories, and hospitals to provide the environment to train our graduates on professional standards and prepare them to serve their profession and society on high standards. I assure you that we will not compromise on the quality education and career-building of our students. Once again, I welcome you for joining our institution for your bright future."
+    ]
+  },
+  "director": {
+    "pageTitle": "Director's Message - Niramaya Institute of Health Sciences",
+    "headerTitle": "Director's Message",
+    "headerSubtitle": "Leadership with Vision and Commitment",
+    "image": "assets/images/message/director.png",
+    "name": "Dr. Naveen Ballal",
+    "qualification": "MBBS, DMRD",
+    "designation": "Director",
+    "contentTitle": "Welcome to Niramaya",
+    "paragraphs": [
+      "At Niramaya Institute of Health Sciences, we are committed to providing quality education and preparing students for rewarding careers. Established in 2023, our commitment has been to deliver top-quality education and prepare our students for rewarding careers in the healthcare sector. Our ambition is to emerge as one of the leading colleges for Allied Health and Nursing in the Udupi district and beyond.",
+      "We currently offer undergraduate programs in B.Sc. Medical Imaging Technology, B.Sc. Medical Laboratory Technology, B.Sc. Anaesthesia & Operation Theatre Technology, and B.Sc. Nursing. Each of these courses is thoughtfully designed to meet the evolving demands of today's healthcare environment. Our experienced faculty members, modern classrooms, and well-equipped laboratories provide the ideal setting for effective learning.",
+      "At NIHS, academics are seamlessly integrated with hands-on training. We are dedicated to nurturing both knowledge and professional confidence, ensuring that our graduates are well-prepared to excel in their chosen field.",
+      "Choosing NIHS is a step toward a promising future. We are here to support and guide you at every stage of your educational journey. Welcome to Niramaya Institute of Health Sciences, where your aspirations are valued and your success is our commitment."
+    ]
+  }
+}

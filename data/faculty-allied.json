@@ -1,0 +1,104 @@
+[
+  {
+    "id": "shivashankar",
+    "name": "Mr Shivashankar Pai B",
+    "designation": "Principal",
+    "department": "Perfusion Technology",
+    "image": "https://placehold.co/180x180/7C1236/FFF?text=SP&font=open-sans",
+    "type": "principal",
+    "registration": "Not Applicable",
+    "email": "principal.ncahs@sode-edu.in",
+    "mobile": "7975353857",
+    "linkedin": "https://www.linkedin.com/in/shivashankar-pai-3573a512",
+    "qualification": "MSc Perfusion Technology",
+    "specialization": "Perfusion Technology",
+    "experience": "13 years of Teaching and 30 years of Clinical experience",
+    "joining_date": "04.12.2023",
+    "interests": "Cricket, Listening to Music",
+    "awards": [
+      "Gave an online guest lecture on Intra-Aortic Balloon Pump at Yenepoya Institute of Allied Health Sciences, Mangalore on 6th Nov 2021",
+      "Delivered a guest lecture on \"Challenges of Cardiac Perfusion in Children and Neonate\" at the \"First International Conference on Perioperative Pediatric Cardiac Care\" at Ibrahim Cardiac Hospital and Research Institute, Dhaka Bangladesh on February 9th, 2023",
+      "Delivered a guest lecture on \"Perfusion in Next Decade: Challenges, Innovation & Career Prospects \"at FUTURZ-2025 conference held at Ocean Pearl organized by A J Institute of Medical sciences and A J Hospital & Research Centre, Mangalore on August 30th, 2025"
+    ],
+    "publications": [
+      "Analogy of Del Nido and conventional cardioplegia in patients undergoing isolated mitral valve replacement surgery: A single-centre retrospective study Guruprasad Rai, Ramesh Chandrababu, Ganesh Sevagur Kamath, Shivashankar Pai B",
+      "Innovative Approaches in Cardiopulmonary Rehabilitation: A Review of Recent Randomized Controlled Trials Dr Flavia Castelino, Divya V, Loretta Veena Dsilva, Roshani Rodrigues, Jenifer Silvy Mathias, B Shivashankar Pai"
+    ]
+  },
+  {
+    "id": "jonsi",
+    "name": "Mrs. Jonsi Johnson",
+    "designation": "Assistant Professor",
+    "department": "Medical Imaging Technology",
+    "image": "https://placehold.co/150x150/C69249/FFF?text=JJ&font=open-sans",
+    "type": "staff",
+    "registration": "Not Applicable",
+    "email": "jonsi-mit.ncahs@saode-edu.in",
+    "mobile": "9844504823",
+    "linkedin": "Jonsi Johnson",
+    "qualification": "MSc Medical Imaging Technology",
+    "specialization": "Imaging Technology",
+    "experience": "3 years of  teaching experience",
+    "joining_date": "16th August 2023",
+    "interests": "Reading novels, drawing, tripping, and sports activities",
+    "awards": [
+      "The dissertation titled \"Association between Bone Mineral Density of lumbar spine and hip with degenerative diseases in South Karnataka population\" is being done for the partial fulfillment of the degree of MSc Medical Imaging Technology."
+    ],
+    "publications": [
+      "Presented a paper presentation on the topic Artificial Intelligence in Medical Imaging Technology in September 2022 at the 5th National Conference organized by the Society of Radiographers and Radiological Technologists (SORRT) and the National Level Conference of Student Radiological Technologists, Kanyakumari, Tamil Nadu.",
+      "Presented a paper presentation on the topic of Radiation Safety and Protection on World Roentgen Day, organized by Jeyasekharan Hospital Academy of Radiological Technology (JHART)."
+    ]
+  },
+  {
+    "id": "swathi",
+    "name": "Ms. Swathi",
+    "designation": "Lecturer",
+    "department": "Medical Laboratory Technology",
+    "image": "https://placehold.co/150x150/C69249/FFF?text=S&font=open-sans",
+    "type": "staff",
+    "registration": "Not Applicable",
+    "email": "swathi-mlt.ncahs@sode-edu.in",
+    "mobile": "6361325421",
+    "linkedin": "Swathi S",
+    "qualification": "MSc. Medical Laboratory Technology",
+    "specialization": "Hematology & Immunohematology",
+    "experience": "Currently, working as a Lecturer at Niraamaya College of Allied Health Sciences, Bantakal from 16th August 2023 till date. Intership in Kasturba Hospital Manipal and Dr. TMA Pai Hospital Udupi (Department of Clinical Pathology, Haematology, Transfusion Medicine, Microbiology, Biochemistry, Cytology and Histopathology) from July 2020- July 2021",
+    "joining_date": "16th August 2023",
+    "interests": "Cooking and listening to Music",
+    "awards": [
+      "Completed many Coursera certificate courses related to Medical Laboratory Technology"
+    ],
+    "publications": [
+      "Attended 2nd National Conference on Clinical Laboratory Education and Research, NACCLER 2019 on November 6, 2019, conducted by MCHP, MAHE, Manipal",
+      "Attended 3rd  National Conference on Clinical Laboratory Education and Research, NACCLER 2023 on April 1, 2023, conducted by MCHP, MAHE, Manipal",
+      "Attended International Symposium on Transfusion Medicine Update on March 2nd and 3rd  2023 conducted by Department of Immunohaematology and Blood Transfusion, KMC, MAHE, Manipal",
+      "Attended Workshop on Basic Life Support and Airway management on February 22nd 2024 organized by Niraamaya Institute of Health Sciences, Bantakal, Udupi",
+      "Attended Regional Allied Health and Paramedical Conference, \"RAPCON 2K25\" on March 01, 2025 organized by Lombard group of Institutions, Udupi"
+    ]
+  },
+  {
+    "id": "sanjana",
+    "name": "Sanjana Jesline Sonas",
+    "designation": "Tutor",
+    "department": "Anesthesia and OT Technology",
+    "image": "https://placehold.co/150x150/C69249/FFF?text=SJ&font=open-sans",
+    "type": "staff",
+    "registration": "Not Applicable",
+    "email": "sanjana.ncahs@sode-edu.in",
+    "mobile": "9481072670",
+    "linkedin": "Sanjana Soans",
+    "qualification": "BSc Anaesthesia and Operation Theatre Technology",
+    "specialization": "Anaesthesia and Operation Theatre Technology",
+    "experience": "Fresher",
+    "joining_date": "01/09/25",
+    "interests": "Anaesthesia technology",
+    "awards": [],
+    "publications": [
+      "Attended Manipal Anaesthesia Technology Conference 2022",
+      "Attended PROMARC AHS-CON 2023",
+      "Attended Manipal Anaesthesia Technology Conference 2024",
+      "MATCON Workshop 2024",
+      "Maternal Resuscitation Program By Centre for CARE and Centre          for SAVE. Dept of Emergency Medicine, KMC, Manipal in 2025"
+    ]
+  }
+]

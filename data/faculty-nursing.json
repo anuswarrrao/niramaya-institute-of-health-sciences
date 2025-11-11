@@ -1,0 +1,124 @@
+[
+  {
+    "id": "roshani",
+    "name": "Mrs Roshani Rodrigues",
+    "designation": "Principal",
+    "department": "OBG Nursing",
+    "image": "https://placehold.co/180x180/7C1236/FFF?text=RR&font=open-sans",
+    "type": "principal",
+    "registration": "25644. Expiry Feb 2026",
+    "email": "principal.ncon@sode-edu.in",
+    "mobile": "9740545050",
+    "linkedin": "Roshani.Stella",
+    "qualification": "MSc Nursing",
+    "specialization": "OBG Nursing",
+    "experience": "12 years in teaching and 7 years in Clinicals",
+    "joining_date": "09th October 2023",
+    "interests": "Cooking, listening to music",
+    "awards": [
+      "Awarded for standing first in Child Health nursing theory and practical in PC BSc Nursing at the University examination held in June 2009",
+      "Certified for scoring highest in Medical Surgical Nursing – Practical in the first year, PC BSc Nursing at the University examination held in June 2009",
+      "Certified for scoring highest in Obstetric and Gynaecological Nursing – Practical in the first year of MSc Nursing at the University examination held in July 2012"
+    ],
+    "publications": [
+      "Awareness and impact of education on Breast Self Examination among housekeeping staff (class IV workers). Journal of Nursing Sciences & Practice; Volume-I, Issue 1-3, 2011, 21 to 27 pages",
+      "Effectiveness of Acupressure on quantity of quantity of expressed breast milk(EBM) among preterm mothers admitted to the postnatal and Kangaroo mother care wards of Kasturba Hospital, Manipal. International Journal of Immunological Nursing: Volume 9, Issue 2, 2023.ISSN 2456-1592",
+      "Innovative approaches in Cardiopulmonary Rehabilitation: A Review of Recent Randomized Controlled Trials. African Journal of Biological Sciences; Volume 6, Issue 14, 2024. ISSN 2663-2187"
+    ]
+  },
+  {
+    "id": "shraddha",
+    "name": "Mrs. Shraddha S Kanchan",
+    "designation": "Vice Principal",
+    "department": "Pediatric Nursing",
+    "image": "https://placehold.co/180x180/7C1236/FFF?text=SK&font=open-sans",
+    "type": "principal",
+    "registration": "66984",
+    "email": "viceprincipal.ncon@sode-edu.in",
+    "mobile": "9901010262",
+    "linkedin": "",
+    "qualification": "MSc Nursing",
+    "specialization": "Pediatric Nursing",
+    "experience": "8 years Teaching Experience - 1 year as Assistant Lecturer and 7 years post M.Sc. Nursing",
+    "joining_date": "18th August 2025",
+    "interests": "Dancing, reading novels, listening to music",
+    "awards": [
+      "Secured the highest marks in the university anatomy and physiology exams",
+      "Secured 2nd place in the university management of nursing services and education exams"
+    ],
+    "publications": []
+  },
+  {
+    "id": "divya",
+    "name": "Mrs. Divya V",
+    "designation": "Assistant Professor",
+    "department": "Medical Surgical Nursing",
+    "image": "https://placehold.co/150x150/C69249/FFF?text=DV&font=open-sans",
+    "type": "staff",
+    "registration": "18569",
+    "email": "divya-ncon@sode-edu.in",
+    "mobile": "9886363351",
+    "linkedin": "Divya Kiran Rao",
+    "qualification": "MSc Nursing, Ph D Scholar",
+    "specialization": "Medical Surgical Nursing",
+    "experience": "15 years of teaching experience — 11 years as Assistant Lecturer and 4 years post-M.Sc.",
+    "joining_date": "14/09/2023",
+    "interests": "Research & Publications",
+    "awards": [
+      "Topper and Distinction Holder in M.Sc. Nursing, RGUHS Examination, December 2021"
+    ],
+    "publications": [
+      "Divya V, Celia Sherril, Vijetha Kottary, A Quasi-Experimental Study on Effectiveness of STP on Knowledge regarding Restless Legs Syndrome. RV Journal of Nursing Sciences (RVJNS), 3(2), April-June 2024. e-ISSN: 2583-472X. Peer-reviewed, ABDC-indexed Journal",
+      "Dr Flavia Castelino, Diana Hephzibah, Dayananda C, Shilpa Rani R, Geethanjali. S, Shilpa H M, Divya V, and Zahid Ahmad Wani, Nursing Interventions to Prevent Pressure Ulcers in Critically Ill Patients: A Review of the Evidence, Asian Journal of Research in Infectious Diseases",
+      "Dr Flavia Castelino, Divya V, Loretta Veena DSilva, Roshani Rodrigues, Jenifer Silvy Mathias B Shivashankar Pai, Innovative Approaches in Cardiopulmonary Rehabilitation: A Review of Recent Randomized Controlled Trials, African Journal of Biological Sciences, Volume 6, Issue -14 (2024)"
+    ]
+  },
+  {
+    "id": "jenifer",
+    "name": "Mrs. Jenifer Silvy Mathias",
+    "designation": "Lecturer",
+    "department": "OBG Nursing",
+    "image": "https://placehold.co/150x150/C69249/FFF?text=JM&font=open-sans",
+    "type": "staff",
+    "registration": "68880, Expires on 2028",
+    "email": "jenniferm.ncon@sode-edu.in",
+    "mobile": "7338316873",
+    "linkedin": "Jenifer",
+    "qualification": "MSc Nursing",
+    "specialization": "OBG Nursing",
+    "experience": "2 year in teaching and 11 years in Clinicals",
+    "joining_date": "14th September 2023",
+    "interests": "Cooking, Gardening, Listening to Music",
+    "awards": [
+      "Certified for scoring highest in Maternal Nursing (Practical) in First year PCBSc Nursing at the Manipal University Examination held in June 2008"
+    ],
+    "publications": [
+      "Knowledge and attitude towards polycystic ovarian syndrome among adolescent girls – A cross-sectional survey – An international journal of creative research thoughts",
+      "Effectiveness of capacity building lifestyle modification on polycystic ovarian syndrome (PCOS) on knowledge and attitude among adolescent girls of Udupi District, Karnataka – An interventional study – International journal of health sciences and research",
+      "Innovative approaches in Cardiopulmonary Rehabilitation: A Review of Recent Randomized Controlled Trials. African Journal of Biological Sciences; Volume 6, Issue14, 2024. ISSN 2663-2187"
+    ]
+  },
+  {
+    "id": "loretta",
+    "name": "Mrs Loretta Veena Dsilva",
+    "designation": "Lecturer",
+    "department": "Medical Surgical Nursing",
+    "image": "https://placehold.co/150x150/C69249/FFF?text=LD&font=open-sans",
+    "type": "staff",
+    "registration": "136136/31-10-2026",
+    "email": "loretta.ncon@sode-edu.in",
+    "mobile": "9008419866",
+    "linkedin": "Loretta Montheiro",
+    "qualification": "MSc Nursing (Cardiovascular & Thoracic Nursing)",
+    "specialization": "Medical Surgical Nursing- Cardiovascular & Thoracic Nursing",
+    "experience": "2 years in teaching and 4 years in clinicals",
+    "joining_date": "15th September 2023",
+    "interests": "Exploring places, food lover, listening to music, reading books, singing, and dancing",
+    "awards": [
+      "Presented a paper presentation on \"Effect of stretching exercise to reduce work-related Musculoskeletal symptoms among security guards\", an interventional study in the 6th National conference organized by Sri Ramachandra Faculty of Nursing"
+    ],
+    "publications": [
+      "Dr Flavia Castelino, Divya V, Loretta Veena DSilva, Roshani Rodrigues, Jenifer Silvy Mathias, B Shivashankar Pai, Innovative Approaches in Cardiopulmonary Rehabilitation: A Review of Recent Randomized Controlled Trials, African Journal of Biological Sciences, Volume 6, Issue -14 (2024)"
+    ]
+  }
+]
